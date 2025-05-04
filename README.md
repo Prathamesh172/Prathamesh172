@@ -26,7 +26,7 @@ A teacher by profession, a data scientist by obsession, and a lifelong student b
 
 ## 📫 How to reach me...
 - **Email**: prathameshugle39@gmail.com  
-- **LinkedIn**: [linkedin.com/in/prathamesh-ugle](www.linkedin.com/in/prathamesh-ugle-299320326)  
+- **LinkedIn**: [linkedin.com/in/prathamesh-ugle](https://www.linkedin.com/in/prathamesh-ugle-299320326/) 
 - **Portfolio**: *(Coming Soon—big things brewing)*
 
 ## 😄 Pronouns:
