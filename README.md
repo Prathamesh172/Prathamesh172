@@ -45,7 +45,7 @@ He/Him (but I respond to "Hey genius", "Bro", and occasionally "Sir" when teachi
 
 ## ⚡ Fun fact:
 
-I once solved a tough math problem during a power cut by candlelight… and then forgot to write it down. Enlightenment is temporary—document your code.
+Tried to build an AI that could read my mind. Turns out, even the algorithm was confused. Guess some models can’t handle this much overthinking.
 
 ---
 
