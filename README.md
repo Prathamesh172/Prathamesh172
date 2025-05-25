@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m Prathamesh Ugle (@Prathamesh172)
+# 👋 Hey there, I’m Prathamesh (@Prathamesh172)
 
 Welcome to my corner of the internet—where physics meets code, and data tells stories.
 A teacher by profession, a data scientist by obsession, and a lifelong student by choice.
