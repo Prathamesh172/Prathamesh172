@@ -49,7 +49,7 @@ Tried to build an AI that could read my mind. Turns out, even the algorithm was 
 
 ---
 
-> *“From equations to algorithms, from classrooms to code—this is my journey through chaos, clarity, and code.”*
+> *“Chasing patterns in chaos, learning from every failure, and coding my way through the questions that refuse to settle.”*
 
 Feel free to explore my projects, fork them, critique them, or just drop a ⭐ if you find them helpful.
 
