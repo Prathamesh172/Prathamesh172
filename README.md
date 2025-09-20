@@ -32,20 +32,20 @@
 ## 🏗 Highlight Projects
 > *Pinned like a portfolio — but with personality.*
 
-- 🎬 **Movie Recommender Web App**  
-  “What should I watch?” solved with ML + clean UI (release date, runtime, ratings, countries).  
-  [Repo →](#) | [Live Demo →](#)
-
-- 📰 **News Topic Clustering**  
-  Topic modeling that makes sense of chaotic news data.  
+- 🧘 **Clarity AI – Mental Health Support Assistant**  
+  AI-powered mental health assistant with crisis detection, Twilio-based emergency escalation, and an empathetic Streamlit interface.  
   [Repo →](#)
 
-- 💼 **Glassdoor Salary Predictor**  
-  From messy job postings → cleaned dataset → salary prediction model.  
+- 🩺 **Tuberculosis Detection Web App**  
+  CNN-based app to detect TB from chest X-rays with instant web predictions for accessible healthcare.  
   [Repo →](#)
 
-- 🧘 **AI Mental Health Assistant (POC)**  
-  Experimental LLM agent: empathetic + safe design + escalation system.  
+- ⚡ **NL2SQL AI – Natural Language to SQL Generator**  
+  LLM system converting natural language into schema-aware SQL queries with real-time execution.  
+  [Repo →](#)
+
+- 🏭 **Predictive Maintenance – TATA Steel**  
+  ML pipeline achieving ROC-AUC 0.95, identifying key drivers of machine failure in industrial data.  
   [Repo →](#)
 
 ---
@@ -59,7 +59,7 @@
 ---
 
 ## 🎯 2025 Roadmap
-- Build **2 production-grade ML apps and GenAI projects** (with CI/CD + Docker).  
+- Build **2 production-grade ML apps** (with CI/CD + Docker).  
 - Master **MLOps basics**.  
 - Land a **Data Scientist role** by year’s end.  
 - Keep writing: essays, poetry, and maybe a book someday.
@@ -68,13 +68,13 @@
 
 ## ✨ Fun Side
 - 🕶 If you don’t find me coding, I’m either writing weird one-liners, reading old philosophy texts, or roasting my own past code.  
-- 🤖 Believes AI should be as human as possible, without pretending to be human.  
+- 🤖 Believes AI should be as human as possible — without pretending to be human.  
 - 🌀 Motto: *“Struggle is data. Growth is the model.”*  
 
 ---
 
 ## 📫 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/prathamesh-ugle-299320326/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/prathamesh-ugle-299320326/)  
 📧 Email: prathameshugle39@gmail.com  
 
 ---
