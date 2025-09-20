@@ -38,7 +38,7 @@
 
 - 🩺 **Tuberculosis Detection Web App**  
   CNN-based app to detect TB from chest X-rays with instant web predictions for accessible healthcare.  
-  [Repo →](#)
+  [Repo →](https://github.com/Prathamesh172/Clarity-AI)
 
 - ⚡ **NL2SQL AI – Natural Language to SQL Generator**  
   LLM system converting natural language into schema-aware SQL queries with real-time execution.  
