@@ -6,7 +6,7 @@ I solve messy real-world problems with data, ML, and a bit of stubborn curiosity
 - 🌱 Learning: Deep learning, model deployment, MLOps, GenAI.
 - 💡 Interests: philosophy, psychology, history, productivity, creative writing.
 - 📫 Reach me: prathameshugle39@gmail.com
-- ⚡ Fun fact: I used to be (and sometimes still am) dramatic — but it helps in storytelling with data.
+- ⚡ Fun fact: I used to be (and sometimes still am) dramatic but it helps in storytelling with data.
 
 ---
 
@@ -41,14 +41,9 @@ Python • NumPy • pandas • scikit-learn • TensorFlow / PyTorch • SQL �
 
 ## 📫 Contact / resume
 - Email: prathameshugle39@gmail.com  
-- LinkedIn: (put your LinkedIn URL here)  
-- Resume: (link to a PDF in a repo or your personal site)
+- LinkedIn: https://www.linkedin.com/in/prathamesh-ugle-299320326/
+- Resume: https://drive.google.com/file/d/1vJ9x6aYmYcvZ0NMBNsBqBd5x5OjBPXh8/view?usp=drive_link
 
----
-
-## ✨ Weekly experimental status
-- Working on: **[Movie Recommender — web app UI / performance tuning]**
-- Next: refactor salary-predictor preprocessing + unit tests.
 
 ---
 
