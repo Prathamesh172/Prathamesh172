@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I’m Prathamesh 👋</h1>
 
 <p align="center">
-  <em>"Teacher of physics, student of data, wanderer in ideas."</em>
+  <em>From Physics to Data Science — building models, stories, and impact.</em>
 </p>
 
 ---
@@ -29,24 +29,11 @@
 
 ---
 
-## 🏗 Highlight Projects
-> *Pinned like a portfolio — but with personality.*
-
-- 🧘 **Clarity AI – Mental Health Support Assistant**  
-  AI-powered mental health assistant with crisis detection, Twilio-based emergency escalation, and an empathetic Streamlit interface.  
-  [Repo →](#)
-
-- 🩺 **Tuberculosis Detection Web App**  
-  CNN-based app to detect TB from chest X-rays with instant web predictions for accessible healthcare.  
-  [Repo →](https://github.com/Prathamesh172/Clarity-AI)
-
-- ⚡ **NL2SQL AI – Natural Language to SQL Generator**  
-  LLM system converting natural language into schema-aware SQL queries with real-time execution.  
-  [Repo →](#)
-
-- 🏭 **Predictive Maintenance – TATA Steel**  
-  ML pipeline achieving ROC-AUC 0.95, identifying key drivers of machine failure in industrial data.  
-  [Repo →](#)
+## 🧭 Current Focus
+- 🌐 Learning: MLOps fundamentals, deep learning architectures.  
+- 🛠 Building: End-to-end ML pipelines with CI/CD & Docker.  
+- ✍️ Practicing: Daily SQL + Python interview problems.  
+- 🎯 Next: Open-sourcing a polished project with full tests + docs.  
 
 ---
 
@@ -62,14 +49,14 @@
 - Build **2 production-grade ML apps** (with CI/CD + Docker).  
 - Master **MLOps basics**.  
 - Land a **Data Scientist role** by year’s end.  
-- Keep writing: essays, poetry, and maybe a book someday.
+- Keep writing: essays, poetry, and maybe a book someday.  
 
 ---
 
 ## ✨ Fun Side
 - 🕶 If you don’t find me coding, I’m either writing weird one-liners, reading old philosophy texts, or roasting my own past code.  
-- 🤖 Believes AI should be as human as possible — without pretending to be human.  
-- 🌀 Motto: *“Struggle is data. Growth is the model.”*  
+- 🤖 I like AI that is practical, interpretable, and actually useful.  
+- 🌀 Guiding thought: *“Clarity beats complexity.”*  
 
 ---
 
@@ -80,5 +67,5 @@
 ---
 
 <p align="center">
-  <em>"The data doesn’t lie — but it doesn’t speak unless you ask the right questions."</em>
+  <em>"Every dataset has a story — I just help uncover it."</em>
 </p>
