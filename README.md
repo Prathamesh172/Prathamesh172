@@ -1,55 +1,61 @@
-# 👋 Hey there, I’m Prathamesh (@Prathamesh172)
+# Hi, I'm Prathamesh 👋
+**M.Sc. Physics — now building things in Data Science | Teacher turned data-nerd**  
+I solve messy real-world problems with data, ML, and a bit of stubborn curiosity.
 
-Welcome to my corner of the internet—where physics meets code, and data tells stories.
-A teacher by profession, a data scientist by obsession, and a lifelong student by choice.
-
----
-
-## 👀 I’m interested in...
-
-* Turning messy data into meaningful insights 🧠📊
-* Building intelligent systems that *actually* solve problems
-* Large Language Models, Generative AI, and the future of AI 👨‍🔬🧩
-* Making models explainable, interpretable, and just plain cool
-* Exploring the edges of ML, AI, and human behavior
-* Discussing philosophy, psychology, and the occasional absurdity of life ☕
-
-## 🌱 I’m currently learning...
-
-* Large Language Models (LLMs), Transformers, and Generative AI (GPT, BERT, LangChain, etc.)
-* Deep Learning with TensorFlow & PyTorch (yes, the *real* stuff)
-* Time Series Analysis & Forecasting (long live seasonality)
-* End-to-end ML pipelines: from raw data to deployment
-* Building interactive dashboards with Streamlit & Dash
-* SQL (finally... I know, I know 😅)
-* Balancing rigor with creativity in every project I build
-* Making projects production-ready: deployment, APIs, and the whole shebang
-* And every odd idea that keeps me up at 2 AM 🥴
-
-## 💞 I’m looking to collaborate on...
-
-* Data Science projects with real-world impact
-* Freelance gigs (open to remote collaborations)
-* Resume screening tools, health/finance analytics, or educational tech
-* Anything crazy enough to be interesting but smart enough to make sense
-
-## 📢 How to reach me...
-
-* **Email**: [prathameshugle39@gmail.com](mailto:prathameshugle39@gmail.com)
-* **LinkedIn**: [linkedin.com/in/prathamesh-ugle](https://www.linkedin.com/in/prathamesh-ugle-299320326/)
-* **Portfolio**: *(Coming Soon—big things brewing)*
-
-## 😄 Pronouns:
-
-He/Him (but I respond to "Hey genius", "Bro", and occasionally "Sir" when teaching)
-
-## ⚡ Fun fact:
-
-Tried to build an AI that could read my mind. Turns out, even the algorithm was confused. Guess some models can’t handle this much overthinking.
+- 🔭 Currently: transitioning to full-time Data Science / ML role — building portfolio projects, practicing interviews.
+- 🌱 Learning: Deep learning, model deployment, MLOps, GenAI.
+- 💡 Interests: philosophy, psychology, history, productivity, creative writing.
+- 📫 Reach me: prathameshugle39@gmail.com
+- ⚡ Fun fact: I used to be (and sometimes still am) dramatic — but it helps in storytelling with data.
 
 ---
 
-> *“Chasing patterns in chaos, learning from every failure, and coding my way through the questions that refuse to settle.”*
+## 🔭 Highlight projects
+> Short, bold snapshots — link to your repos (pin these ones)
 
-Feel free to explore my projects, fork them, critique them, or just drop a ⭐ if you find them helpful.
+- **Movie Recommender Web App** — Production-like web app with release date, runtime, ratings, and country filters. (Shows web app + recommendation pipeline)
+- **News Topic Clustering** — Unsupervised analytics on news; topic modeling + visualization and cluster explanations.
+- **Salary Predictor (Glassdoor)** — Salary analysis + model to predict salary using job title, location, company size.
+- **AI Mental Health Assistant (proof of concept)** — Agentic LLM design with emergency escalation planning (prototype, docs).
+- **MLOps / Job Simulation** — End-to-end pipeline demo: data ingestion → training → CI → deployment.
+
+---
+
+## 🛠 Tech & tools
+Python • NumPy • pandas • scikit-learn • TensorFlow / PyTorch • SQL • Streamlit • Flask • Docker • Git • GitHub Actions • pandas • matplotlib • seaborn • XGBoost • LightGBM
+
+---
+
+## 📈 GitHub stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh172&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=Prathamesh172&show_icons=true&include_all_commits=true&count_private=true)
+
+---
+
+## 🧭 My goals (2025)
+- Build and deploy 2 production-ready ML projects (with tests and CI/CD).
+- Land interviews at two target companies.
+- Read one book on behavioral economics & one on machine learning interpretability.
+
+---
+
+## 📫 Contact / resume
+- Email: prathameshugle39@gmail.com  
+- LinkedIn: (put your LinkedIn URL here)  
+- Resume: (link to a PDF in a repo or your personal site)
+
+---
+
+## ✨ Weekly experimental status
+- Working on: **[Movie Recommender — web app UI / performance tuning]**
+- Next: refactor salary-predictor preprocessing + unit tests.
+
+---
+
+## 📌 Want to collaborate?
+Open issues on any repo, ping me — I’ll likely roast your code but in helpful ways.
+
+---
+
+> “I prefer concrete work over wishful thinking.” — Me, probably.
 
